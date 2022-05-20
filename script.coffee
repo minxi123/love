@@ -1,7 +1,7 @@
 styles = """
 /*
  * "a love letter💗" v5.2.1
- * for every true lover
+ * for my love yuyu
  */
 
 body {
